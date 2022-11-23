@@ -15,7 +15,7 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KO"
+locale                   : "en-EN"
 title                    : "Sunny's Record"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
